@@ -1,0 +1,28 @@
+{
+  "name": "simple-botwhatsapp",
+  "version": "1.0.0",
+  "description": "Bot whatsapp sederhana",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burhanfauzisalam/simple-botwhatsapp.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp"
+  ],
+  "author": "Burhan Fauzi Salam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burhanfauzisalam/simple-botwhatsapp/issues"
+  },
+  "homepage": "https://github.com/burhanfauzisalam/simple-botwhatsapp#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.20.0"
+  }
+}
